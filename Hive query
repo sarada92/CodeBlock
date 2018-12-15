@@ -12,11 +12,6 @@ ID					   NOT NULL NUMBER(32)   15644
  VARIANT_ID					    NUMBER(32)                 34880
  RATE_ID				   NOT NULL NUMBER(32)           68115
  
-ENTRY_CODE_TYPE				    VARCHAR2(32)       QR
- ENTRY_CODE_STATUS				    VARCHAR2(32)       UNUSED
- CREATED_AT					    DATE					07-SEP-18
- UPDATED_AT					    DATE					07-SEP-18
- PAX_TYPE				   NOT NULL VARCHAR2(8)           ANY
 
 I hv added new line in Sarada.
  
