@@ -17,6 +17,6 @@ ENTRY_CODE_TYPE				    VARCHAR2(32)       QR
  CREATED_AT					    DATE					07-SEP-18
  UPDATED_AT					    DATE					07-SEP-18
  PAX_TYPE				   NOT NULL VARCHAR2(8)           ANY
-
+New line is added in master by S2.
 
  
