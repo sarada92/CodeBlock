@@ -18,5 +18,5 @@ ENTRY_CODE_TYPE				    VARCHAR2(32)       QR
  UPDATED_AT					    DATE					07-SEP-18
  PAX_TYPE				   NOT NULL VARCHAR2(8)           ANY
 
-
+I hv added new line in Sarada.
  
