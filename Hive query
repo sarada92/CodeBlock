@@ -17,6 +17,12 @@ ENTRY_CODE_TYPE				    VARCHAR2(32)       QR
  CREATED_AT					    DATE					07-SEP-18
  UPDATED_AT					    DATE					07-SEP-18
  PAX_TYPE				   NOT NULL VARCHAR2(8)           ANY
+<<<<<<< HEAD
 New line is added in master by S2.
 
+=======
+
+I hv added new line in Sarada.
+>>>>>>> Sarada
  
+we are ok
