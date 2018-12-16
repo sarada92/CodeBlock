@@ -32,3 +32,6 @@ SELECT COALESCE(MAX(ID),0) + 1 FROM activities.activity_entry_code
 ,TO_DATE('07-SEP-18','DD-MON-YY')
 ,'ANY'
  );
+
+ --//Sarada 
+ show date;
