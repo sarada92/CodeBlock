@@ -37,3 +37,4 @@ SELECT COALESCE(MAX(ID),0) + 1 FROM activities.activity_entry_code
  select main table;
  
  New fetch command added.
+ only changes are made is fine.
