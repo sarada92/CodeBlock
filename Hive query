@@ -33,5 +33,10 @@ SELECT COALESCE(MAX(ID),0) + 1 FROM activities.activity_entry_code
 ,'ANY'
  );
 
+
  --//Sarada 
  show date;
+
+ ---Sarada2
+ select main table;
+
