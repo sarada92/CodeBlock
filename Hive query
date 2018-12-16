@@ -35,3 +35,5 @@ SELECT COALESCE(MAX(ID),0) + 1 FROM activities.activity_entry_code
 
  ---Sarada2
  select main table;
+ 
+ New fetch command added.
